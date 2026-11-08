@@ -22,16 +22,16 @@ main = "src/combined.js"
 compatibility_date = "2026-07-01"
 
 # KV 绑定的变量名必须叫 KV，代码里认的就是这个名字
-[[kv_namespaces]]
+[[bttme]]
 binding = "KV"
-id = "在这里填你创建的 KV 命名空间 ID"
+id = "128dbb10baf242f18618b45dfbb7bad8"
 
 # ---- Agent 专用绑定（纯网关部署用不到，Pages 也不读这些）----
 
 [[d1_databases]]
 binding = "DB"
 database_name = "agent-web"
-database_id = "在这里填你创建的 D1 数据库 ID"
+database_id = "4f8ba9eb-70c2-4829-8349-c11b4a5903aa"
 
 [[r2_buckets]]
 binding = "WORKSPACE"
