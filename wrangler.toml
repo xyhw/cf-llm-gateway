@@ -22,9 +22,9 @@ main = "src/combined.js"
 compatibility_date = "2026-07-01"
 
 # KV 绑定的变量名必须叫 KV，代码里认的就是这个名字
-[[bttme]]
+[[agent-web]]
 binding = "KV"
-id = "128dbb10baf242f18618b45dfbb7bad8"
+id = "366af3f1-2c6f-4d5c-9bc2-8eb69c3e75ab"
 
 # ---- Agent 专用绑定（纯网关部署用不到，Pages 也不读这些）----
 
